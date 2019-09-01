@@ -1,2 +1,2 @@
 ﻿# Etherum-Application
-Ownership transfer Application powered by the blockchain
+Ownership Transfer Application powered by the blockchain
